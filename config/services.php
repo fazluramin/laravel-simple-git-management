@@ -14,11 +14,7 @@ return [
     |
     */
     'mandrill' => [
-<<<<<<< HEAD
-        'secret' => 'Mandrill Key Here'
-=======
         'secret' => 'Mandrill Secret Key'
->>>>>>> 7ac1c0414644e5f22d9966533ecfa8cba7ce3183
     ],
     
     'mailgun' => [
