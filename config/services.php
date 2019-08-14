@@ -14,7 +14,7 @@ return [
     |
     */
     'mandrill' => [
-        'secret' => 'fdMHk8z3VIdZFS0WOdpi1Q'
+        'secret' => 'Mandrill Key Here'
     ],
     
     'mailgun' => [
